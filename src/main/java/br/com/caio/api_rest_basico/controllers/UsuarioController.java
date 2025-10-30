@@ -26,4 +26,5 @@ public class UsuarioController {
     public List<Usuario> getUser() {
         return user;
     }
+
 }
